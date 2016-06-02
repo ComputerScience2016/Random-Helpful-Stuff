@@ -1,0 +1,24 @@
+Please update if you find a new one.
+website of many: http://vimawesome.com/
+
+List of useful vim plugins:
+
+1. https://github.com/VundleVim/Vundle.vim
+  Helps to manage your plugins.
+  
+2. http://vimawesome.com/plugin/nerdtree-red
+ It presents the filesystem to you in the form of a tree which you manipulate with the keyboard and/or mouse.
+  (Much the eclipse file hierarchy)
+  
+3.http://vimawesome.com/plugin/vim-autoformat
+  Code formatter. Click a button and format all your code!
+  
+4 https://github.com/tpope/vim-surround.
+   Add, delete and change: parentheses, brackets, quotes, XML tags, and more. in pairs
+    e.g. "Hello world"  --> 'Hello world' by changing one " to ' 
+    
+5. https://github.com/scrooloose/syntastic
+    Checks your syntax and will display the syntax errors to you with needing to complie and run the program.
+
+6. http://valloric.github.io/YouCompleteMe/
+     Auto Completion 
